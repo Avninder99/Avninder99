@@ -3,17 +3,17 @@
 **Avninder99/Avninder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on ...
-- 💬 Ask me about ...
+
 -->
 <h1 align="center">Hi 👋, I'm Avninder Preet Singh</h1>
 <h3 align="center">I am a college student who is passionate about programming. I have learned Full Stack Web development.</h3>
 
 - 🌱 I’m currently learning C++ and Python
-- 🤔 I’m looking for help with Web Development
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with Data Structure and Algorithms
+- 👯 I’m looking to collaborate on Web Projects/Repositories
+- 💬 Ask me about Web Development
+- ⚡ Fun fact: Patience is the key to success in programming
 - 📫 How to reach me: avninderpreet99@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
