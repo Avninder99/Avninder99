@@ -62,10 +62,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-
 <p align="center">
     <img src="https://img.shields.io/github/followers/Avninder99?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen">
-    <img src="https://img.shields.io/badge/Linkedin-Avninder_Preet_Singh-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/Avninder preet singh">
 </p>
 
 <p align="center">
