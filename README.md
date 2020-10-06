@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Avninder99/Avninder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,15 +8,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 💬 Ask me about ...
 -->
-
+<h1 align="center">Hi 👋, I'm Avninder Preet Singh</h1>
+<h3 align="center">I am a college student who is passionate about programming. I have learned Full Stack Web development.</h3>
 
 - 🌱 I’m currently learning C++ and Python
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about ...
 - 📫 How to reach me: avninderpreet99@gmail.com
-
-<h1 align="center">Hi 👋, I'm Avninder Preet Singh</h1>
-<h3 align="center">I am a college student who is passionate about programming. I have learned Full Stack Web development.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
