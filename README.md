@@ -71,6 +71,6 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api?username=Avninder99&bg_color=333333&title_color=fff&text_color=fff&show_icons=true" >
     </a>
 </p>
-<p align="left">
+<!-- <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avninder99&layout=compact" alt="aa" />
-</p>
+</p> -->
