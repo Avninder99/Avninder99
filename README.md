@@ -63,7 +63,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/Avninder99?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen">
+    <a href="https://github.com/Avninder99">
+        <img src="https://img.shields.io/github/followers/Avninder99?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen">
+    </a>
 </p>
 
 <p align="center">
