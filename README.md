@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
+- ⚡ Fun fact: ...
 
 -->
 <h1 align="center">Hi 👋, I'm Avninder Preet Singh</h1>
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Structure and Algorithms
 - 👯 I’m looking to collaborate on Web Projects/Repositories
 - 💬 Ask me about Web Development
-- ⚡ Fun fact: Patience is the key to success in programming
 - 📫 How to reach me: avninderpreet99@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
